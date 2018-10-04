@@ -1,0 +1,80 @@
+img {
+	width: 100%;
+}
+
+body {
+	color: #0F4C5C;
+}
+
+p {
+	color: white;
+}
+
+
+.button {
+	padding: 10px 15px;
+	background-color: #black;
+	border: 3px solid black;
+}
+
+.button:hover {
+	background-color: transparent;
+	text-decoration: none;
+}
+
+h1 {
+	color: #94B0DA;
+	margin-bottom: 25px;
+	border-bottom: 2px solid blue;
+}
+
+.img-border {
+	border: 3px solid black;
+}
+
+.first {
+	padding: 50px 0;
+	background-color: #0F4C5C;
+}
+
+.intro {
+	color: #DCEDFF;
+}
+
+.second {
+	padding: 50px 0;
+	background-color: #DCEDFF;
+
+}
+
+.interests {
+	color: #0F4C5C;
+}
+
+
+
+.third {
+	padding: 50px 0;
+	background-color: #0F4C5C;
+}
+
+.fourth {
+	padding: 50px 0;
+	background-color: #DCEDFF;
+}
+
+.facts {
+
+}
+
+.ms {
+	background-color: #630C0D;
+}
+
+.gt {
+	background-color: #0066CD;
+}
+
+.mts {
+	background-color: #0066CD;
+}
